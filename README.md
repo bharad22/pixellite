@@ -1,2 +1,2 @@
 # pixellite
-Image compression using Huffman algorithm
+Pixellite, developed using C++. Compression of grayscale image. Only the size of the compressed image is displayed.
